@@ -1,0 +1,11 @@
+div{
+    background-color: #4CAF50; /* Green */
+    color: white; /*cor da fonte*/
+    border-style:solid; /*estilo da borda*/
+    border-width: 10px; /*tamanho da borda*/
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 0px 10px 0px 10px;  
+    border-radius: 8px;
+}

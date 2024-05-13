@@ -1,0 +1,42 @@
+button{    
+    background-color: #4CAF50; /* Green */
+    color: white; /*cor da fonte*/
+    border-style:solid; /*estilo da borda*/
+    border-width: none; /*tamanho da borda*/
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    border-radius: 8px;
+}
+
+/*  
+
+Padding 
+    padding-top
+    padding-right
+    padding-bottom
+    padding-left
+
+*/
+/*
+A border-stylepropriedade especifica que tipo de borda exibir.
+
+Os seguintes valores são permitidos:
+
+dotted- Define uma borda pontilhada
+dashed- Define uma borda tracejada
+solid- Define uma borda sólida
+double- Define uma borda dupla
+groove- Define uma borda ranhurada 3D. O efeito depende do valor da cor da borda
+ridge- Define uma borda estriada 3D. O efeito depende do valor da cor da borda
+inset- Define uma borda inserida 3D. O efeito depende do valor da cor da borda
+outset- Define uma borda inicial 3D. O efeito depende do valor da cor da borda
+none- Não define fronteira
+hidden- Define uma borda oculta
+A border-stylepropriedade pode ter de um a quatro valores (para borda superior, borda direita, borda inferior e borda esquerda).
+
+*|

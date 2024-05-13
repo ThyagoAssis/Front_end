@@ -1,0 +1,23 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #34495e;
+    height: 30px;
+}
+
+.menu li {
+    display: inline; /* Coloca os items em linha  */
+    margin-right: 20px; /* Espaçamento entre os itens */
+   align-items: end;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #95a5a6; /* Cor dos links */
+    font-weight: bold;
+}
+
+.menu li a:hover {
+    color: #bdc3c7; /* Cor dos links ao passar o mouse */
+}
