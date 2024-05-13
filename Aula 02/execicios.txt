@@ -4,6 +4,10 @@ Desafio: Crie uma página de perfil básica com uma foto, nome, descrição e al
 Exercício 2: Construindo um Menu de Navegação
 Desafio: Crie um menu de navegação horizontal com links para diferentes páginas do seu site, na pagina inicial do tutorial de HTML.
 
-Exercício 3: Estilizando uma Lista de Tarefas
+Exercício 3: Estilizando uma Tabela
+Desafio: Crie e estilize uma tabela de compras
+
+Exercício 4: Estilizando uma Lista de Tarefas
 Desafio: Crie uma lista de tarefas com caixas de seleção e estilize-as para que pareçam cartões.
+
 
